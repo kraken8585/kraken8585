@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kraken8585
-- 👀 I’m a CyberSecurity Advocate
-- 🌱 Passion in Incident Response and Forensic Analysis
 
 <!---
 kraken8585/kraken8585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
